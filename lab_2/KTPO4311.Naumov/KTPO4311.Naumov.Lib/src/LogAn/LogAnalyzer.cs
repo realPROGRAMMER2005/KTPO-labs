@@ -2,16 +2,28 @@
 
 {
     /// <summary> Анализатор log файлов </summary>
+
     public class LogAnalyzer
     {
-        /// <summary> Проверка правильности имени файла </summary>
+        public LogAnalyzer() { }
 
+        /// <summary>
+        /// Проверка правильности имени файла
+        /// </summary>
         public bool IsValidLogFileName(string fileName)
         {
-            // читать конфигурационный файл
-            // вернуть true
-            // если конфигурация поддерживается
-            return true;
-       }
+            var mgr = ExtensionManagerFactory.Create();
+            try
+            {
+                return mgr.IsValid(fileName);
+            }
+            catch (Exception)
+            {
+                // При возникновении исключения возвращаем false
+                return false;
+            }
+        }
     }
+
 }
+

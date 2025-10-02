@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\",
+  "WorkspaceRootPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|c:\\work\\ktpo\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.unittest\\src\\logan\\loganalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|solutionrelative:ktpo4311.naumov.unittest\\src\\logan\\loganalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA3321EB-8B6A-4533-9699-1F670E70B5CF}|KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.service\\src\\logan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3321EB-8B6A-4533-9699-1F670E70B5CF}|KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj|solutionrelative:ktpo4311.naumov.service\\src\\logan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|c:\\work\\ktpo\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.unittest\\src\\sample\\sampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|solutionrelative:ktpo4311.naumov.unittest\\src\\sample\\sampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.lib\\src\\logan\\extensionmanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|solutionrelative:ktpo4311.naumov.lib\\src\\logan\\extensionmanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|c:\\work\\ktpo\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.lib\\src\\logan\\loganalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.lib\\src\\logan\\fileextensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|solutionrelative:ktpo4311.naumov.lib\\src\\logan\\fileextensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.lib\\src\\logan\\loganalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|solutionrelative:ktpo4311.naumov.lib\\src\\logan\\loganalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|c:\\work\\ktpo\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.lib\\ktpo4311.naumov.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6491D833-91B6-429A-B6E8-E01A905862AD}|KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj|solutionrelative:ktpo4311.naumov.lib\\ktpo4311.naumov.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.unittest\\src\\logan\\loganalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|solutionrelative:ktpo4311.naumov.unittest\\src\\logan\\loganalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3321EB-8B6A-4533-9699-1F670E70B5CF}|KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.service\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FA3321EB-8B6A-4533-9699-1F670E70B5CF}|KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj|solutionrelative:ktpo4311.naumov.service\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|c:\\users\\denna\\desktop\\ktpo-labs\\lab_2\\ktpo4311.naumov\\ktpo4311.naumov.unittest\\src\\sample\\sampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC64E0C-57D4-4F10-836A-E9EC653F61F2}|KTPO4311.Naumov.UnitTest\\KTPO4311.Naumov.UnitTest.csproj|solutionrelative:ktpo4311.naumov.unittest\\src\\sample\\sampletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SampleTests.cs",
-              "DocumentMoniker": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\Sample\\SampleTests.cs",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\Sample\\SampleTests.cs",
               "RelativeDocumentMoniker": "KTPO4311.Naumov.UnitTest\\src\\Sample\\SampleTests.cs",
-              "ToolTip": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\Sample\\SampleTests.cs",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\Sample\\SampleTests.cs",
               "RelativeToolTip": "KTPO4311.Naumov.UnitTest\\src\\Sample\\SampleTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:36:07.369Z",
               "IsPinned": true,
@@ -44,26 +56,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogAnalyzer.cs",
-              "DocumentMoniker": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
-              "RelativeDocumentMoniker": "KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
-              "ToolTip": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
-              "RelativeToolTip": "KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\src\\LogAn\\Program.cs",
+              "RelativeDocumentMoniker": "KTPO4311.Naumov.Service\\src\\LogAn\\Program.cs",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\src\\LogAn\\Program.cs",
+              "RelativeToolTip": "KTPO4311.Naumov.Service\\src\\LogAn\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:42:42.166Z",
+              "WhenOpened": "2025-10-02T20:10:27.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ExtensionManagerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\ExtensionManagerFactory.cs",
+              "RelativeDocumentMoniker": "KTPO4311.Naumov.Lib\\src\\LogAn\\ExtensionManagerFactory.cs",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\ExtensionManagerFactory.cs",
+              "RelativeToolTip": "KTPO4311.Naumov.Lib\\src\\LogAn\\ExtensionManagerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:54:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "KTPO4311.Naumov.Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\appsettings.json",
+              "RelativeToolTip": "KTPO4311.Naumov.Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T19:45:55.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LogAnalyzerTests.cs",
-              "DocumentMoniker": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\LogAn\\LogAnalyzerTests.cs",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\LogAn\\LogAnalyzerTests.cs",
               "RelativeDocumentMoniker": "KTPO4311.Naumov.UnitTest\\src\\LogAn\\LogAnalyzerTests.cs",
-              "ToolTip": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\LogAn\\LogAnalyzerTests.cs",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.UnitTest\\src\\LogAn\\LogAnalyzerTests.cs",
               "RelativeToolTip": "KTPO4311.Naumov.UnitTest\\src\\LogAn\\LogAnalyzerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:56:45.966Z",
               "EditorCaption": ""
@@ -71,14 +109,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "KTPO4311.Naumov.Lib.csproj",
-              "DocumentMoniker": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
-              "RelativeDocumentMoniker": "KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
-              "ToolTip": "C:\\Work\\KTPO\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
-              "RelativeToolTip": "KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T14:01:22.501Z",
+              "Title": "LogAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
+              "RelativeDocumentMoniker": "KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
+              "RelativeToolTip": "KTPO4311.Naumov.Lib\\src\\LogAn\\LogAnalyzer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:42:42.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileExtensionManager.cs",
+              "DocumentMoniker": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\FileExtensionManager.cs",
+              "RelativeDocumentMoniker": "KTPO4311.Naumov.Lib\\src\\LogAn\\FileExtensionManager.cs",
+              "ToolTip": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\src\\LogAn\\FileExtensionManager.cs",
+              "RelativeToolTip": "KTPO4311.Naumov.Lib\\src\\LogAn\\FileExtensionManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:46:29.757Z",
               "EditorCaption": ""
             }
           ]

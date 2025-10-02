@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4311.Naumov.UnitTest", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4311.Naumov.Lib", "KTPO4311.Naumov.Lib\KTPO4311.Naumov.Lib.csproj", "{6491D833-91B6-429A-B6E8-E01A905862AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4311.Naumov.Service", "KTPO4311.Naumov.Service\KTPO4311.Naumov.Service.csproj", "{FA3321EB-8B6A-4533-9699-1F670E70B5CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{6491D833-91B6-429A-B6E8-E01A905862AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6491D833-91B6-429A-B6E8-E01A905862AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6491D833-91B6-429A-B6E8-E01A905862AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3321EB-8B6A-4533-9699-1F670E70B5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3321EB-8B6A-4533-9699-1F670E70B5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3321EB-8B6A-4533-9699-1F670E70B5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3321EB-8B6A-4533-9699-1F670E70B5CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4232F4E-7925-427F-B1A3-B0C93245C180}
 	EndGlobalSection
 EndGlobal
