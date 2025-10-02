@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AvDrW7dETCM=",
+  "success": true,
+  "projectFilePath": "C:\\Work\\KTPO\\KTPO-labs\\lab_2\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denna\\.nuget\\packages\\reportgenerator\\5.4.12\\reportgenerator.5.4.12.nupkg.sha512"
+  ],
+  "logs": []
+}

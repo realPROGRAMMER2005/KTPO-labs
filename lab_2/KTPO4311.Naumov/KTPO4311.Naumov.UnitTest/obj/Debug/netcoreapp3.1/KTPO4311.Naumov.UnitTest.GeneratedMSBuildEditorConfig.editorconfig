@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = KTPO4311.Naumov.UnitTest
+build_property.ProjectDir = C:\Work\KTPO\KTPO4311.Naumov\KTPO4311.Naumov.UnitTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
