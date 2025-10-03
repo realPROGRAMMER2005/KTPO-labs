@@ -36,7 +36,7 @@
                 catch (Exception e)
                 {
                     IEmailService email = EmailServiceFactory.Create();
-                    email.SendEmail("wrong@somewhere.com", "Невозможно вызвать веб-сервис", e.Message);
+                    email.SendEmail("someone@somewhere.com", "Невозможно вызвать веб-сервис", e.Message);
                 }
             }
         }
