@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_3\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_3\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_3\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
+        "projectName": "KTPO4311.Naumov.Lib",
+        "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_3\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
+        "packagesPath": "C:\\Users\\denna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_3\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\denna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[5.4.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
