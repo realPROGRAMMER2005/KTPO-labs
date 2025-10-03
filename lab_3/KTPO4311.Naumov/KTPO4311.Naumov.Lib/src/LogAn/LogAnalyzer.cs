@@ -24,12 +24,20 @@
             }
         }
 
-        public void Analyze(string fileName) 
+        public void Analyze(string fileName)
         {
             if (fileName.Length < 8)
             {
-                IWebService service = WebServiceFactory.Create();
-                service.LogError("Слишком короткое имя файла: " + fileName);
+                try
+                {
+                    IWebService srv = WebServiceFactory.Create();
+                    srv.LogError("Слишком короткое имя файла: " + fileName);
+                }
+                catch (Exception e)
+                {
+                    IEmailService email = EmailServiceFactory.Create();
+                    email.SendEmail("wrong@somewhere.com", "Невозможно вызвать веб-сервис", e.Message);
+                }
             }
         }
     }

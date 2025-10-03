@@ -80,11 +80,37 @@ namespace KTPO4311.Naumov.UnitTest.src.LogAn
             Assert.That(mockWebService.lastError, Does.Contain("Слишком короткое имя файла: abc.ext"));
         }
 
+        [Test]
+        public void Analyze_WebServiceThrows_SendsEmail()
+        {
+            // Подготовка теста
+            FakeWebService stubWebService = new FakeWebService();
+            stubWebService.WillThrow = new Exception("Web service exception");
+            WebServiceFactory.SetService(stubWebService);
+
+            FakeEmailService mockEmail = new FakeEmailService();
+            EmailServiceFactory.SetService(mockEmail);
+
+            LogAnalyzer log = new LogAnalyzer();
+            string tooShortFileName = "abc.ext";
+
+            // Воздействие на тестируемый объект
+            log.Analyze(tooShortFileName);
+
+            // Проверка ожидаемого результата
+            // Здесь будет несколько утверждений
+            // поэтому здесь допустимо несколько утверждений
+            StringAssert.Contains("someone@somewhere.com", mockEmail.To);
+            StringAssert.Contains("Web service exception", mockEmail.Body);
+            StringAssert.Contains("Невозможно вызвать веб-сервис", mockEmail.Subject);
+        }
+
         [TearDown]
         public void AfterEachTest()
         {
             ExtensionManagerFactory.SetManager(null);
             WebServiceFactory.SetService(null);
+            EmailServiceFactory.SetService(null);
         }
 
 
@@ -120,10 +146,30 @@ namespace KTPO4311.Naumov.UnitTest.src.LogAn
     internal class FakeWebService : IWebService
     {
         public string lastError;
+        public Exception WillThrow = null;
 
         public void LogError(string message)
         {
+            if (WillThrow != null)
+            {
+                throw WillThrow;
+            }
             lastError = message;
+        }
+    }
+
+    /// <summary>Поддельный почтовый сервис</summary>
+    internal class FakeEmailService : IEmailService
+    {
+        public string To;
+        public string Subject;
+        public string Body;
+
+        public void SendEmail(string to, string subject, string body)
+        {
+            To = to;
+            Subject = subject;
+            Body = body;
         }
     }
 

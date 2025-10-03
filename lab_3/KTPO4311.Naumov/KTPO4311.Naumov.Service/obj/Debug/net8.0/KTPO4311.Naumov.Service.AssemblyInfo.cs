@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTPO4311.Naumov.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76cc094a082754af7409c5539b9680fccf8f6ee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e0f566b882665861a0acf985a371ce2bc1f2b1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTPO4311.Naumov.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTPO4311.Naumov.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
