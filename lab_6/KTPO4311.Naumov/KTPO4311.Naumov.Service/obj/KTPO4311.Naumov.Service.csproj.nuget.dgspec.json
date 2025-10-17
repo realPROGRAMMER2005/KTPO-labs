@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj": {}
+    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj": {
+    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
         "projectName": "KTPO4311.Naumov.Lib",
-        "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
+        "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj",
         "packagesPath": "C:\\Users\\denna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\obj\\",
+        "outputPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -83,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj": {
+    "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj",
+        "projectUniqueName": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj",
         "projectName": "KTPO4311.Naumov.Service",
-        "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj",
+        "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\KTPO4311.Naumov.Service.csproj",
         "packagesPath": "C:\\Users\\denna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\obj\\",
+        "outputPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj": {
-                "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_5\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj"
+              "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj": {
+                "projectPath": "C:\\Users\\denna\\Desktop\\KTPO-labs\\lab_6\\KTPO4311.Naumov\\KTPO4311.Naumov.Lib\\KTPO4311.Naumov.Lib.csproj"
               }
             }
           }

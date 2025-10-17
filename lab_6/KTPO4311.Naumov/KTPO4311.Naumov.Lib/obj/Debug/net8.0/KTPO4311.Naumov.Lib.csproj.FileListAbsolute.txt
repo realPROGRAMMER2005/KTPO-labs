@@ -85,3 +85,16 @@ C:\Users\denna\Desktop\KTPO-labs\lab_5\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\D
 C:\Users\denna\Desktop\KTPO-labs\lab_5\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\refint\KTPO4311.Naumov.Lib.dll
 C:\Users\denna\Desktop\KTPO-labs\lab_5\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.pdb
 C:\Users\denna\Desktop\KTPO-labs\lab_5\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\ref\KTPO4311.Naumov.Lib.dll
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\bin\Debug\net8.0\KTPO4311.Naumov.Lib.deps.json
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\bin\Debug\net8.0\KTPO4311.Naumov.Lib.dll
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\bin\Debug\net8.0\KTPO4311.Naumov.Lib.pdb
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.csproj.AssemblyReference.cache
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.AssemblyInfoInputs.cache
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.AssemblyInfo.cs
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.csproj.CoreCompileInputs.cache
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.sourcelink.json
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.dll
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\refint\KTPO4311.Naumov.Lib.dll
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\KTPO4311.Naumov.Lib.pdb
+C:\Users\denna\Desktop\KTPO-labs\lab_6\KTPO4311.Naumov\KTPO4311.Naumov.Lib\obj\Debug\net8.0\ref\KTPO4311.Naumov.Lib.dll
